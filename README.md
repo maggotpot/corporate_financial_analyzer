@@ -41,7 +41,12 @@ Financial statements collected:
 !!! Due to variations in financial statement structures across companies and reporting periods, not all ratios are available for every firm. The model explicitly handles missing data to ensure analytical integrity. !!!
 
 ## Results & Insights
-()
+- Tech companies show higher net profit margins compared to consumer-focused firms -> stronger pricing power and scalable business models
+- Consumer staples exhibit lower but stable profitability -> predictable demand & reduced earnings volatility
+- Debt-to-Equity ratios vary significantly across industries
+- Liquidity ratios are not consistently meaningful across all firms -> industry context is important in financial analysis
+- Automated data extraction and ratio calculation improve analytical efficiency
+- Financial analysis can be scaled across multiple companies using programmatic workflows rather than manual calculations
 
 ## Limitations
 - Yahoo Finance data may differ slightly from official SEC filings
